@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anafe R. Antido - BS Agriculture Student</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f8f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    h2 {
+      color: #4CAF50;
+    }
+    .info-box {
+      background-color: #ffffff;
+      padding: 15px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Anafe R. Antido</h1>
+    <p>BS Agriculture Student at JH Dumingag Campus</p>
+  </header>
+
+  <section>
+    <div class="info-box">
+      <h2>About Me</h2>
+      <p>Hello! My name is Anafe R. Antido. I am a 3rd year student under the Crop Science department, taking up Bachelor of Science in Agriculture at JH Dumingag Campus.</p>
+      <p>I am 20 years old, born on April 24, 2004, in Purok 5 Lower Timonan, Dumingag, Zamboanga Del Sur.</p>
+    </div>
+
+    <div class="info-box">
+      <h2>Personal Information</h2>
+      <p><strong>Age:</strong> 20</p>
+      <p><strong>Birthdate:</strong> April 24, 2004</p>
+      <p><strong>Birthplace:</strong> Purok 5, Lower Timonan, Dumingag, Zamboanga Del Sur</p>
+      <p><strong>Mother:</strong> Florita R. Antido</p>
+      <p><strong>Father:</strong> Rene R. Antido</p>
+      <p><strong>Address:</strong> Purok 5, Lower Timonan, Dumingag, Zamboanga Del Sur</p>
+    </div>
+
+    <div class="info-box">
+      <h2>Favorites</h2>
+      <p><strong>Favorite Music:</strong> Love Me Like You Do</p>
+      <p><strong>Favorite Books:</strong> Love Story</p>
+    </div>
+
+    <div class="info-box">
+      <h2>Education</h2>
+      <p><strong>Course:</strong> Bachelor of Science in Agriculture</p>
+      <p><strong>Major:</strong> Crop Science</p>
+      <p><strong>Year Level:</strong> 3rd Year</p>
+      <p><strong>Campus:</strong> JH Dumingag Campus</p>
+    </div>
+</section>
+
+</body </html>
